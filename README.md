@@ -12,4 +12,4 @@ y el codigo de la conexion a mysql "enlace_mysql.py".
 --MySQL--
 Esta carpeta contiene:
 El script para hacer la base de datos en MySQL "ScriptERP.sql"
-y los datos de prueba que se le ingresan a la base "Entradas.sql"
+y los datos de prueba que se le ingresan a la base "EntradasERP.sql"
